@@ -1,5 +1,5 @@
 # Secure Three-Server Web Infrastructure for [www.foobar.com](http://www.foobar.com)
-![Simple Web Stack](images/2-secured_and_monitored_web_infrastructure.jpeg)
+![Simple Web Stack](images/2-secured_and_monitored_web_infrastructure.png)
 
 ## Infrastructure Components
 

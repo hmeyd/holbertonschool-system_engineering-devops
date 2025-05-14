@@ -1,7 +1,7 @@
 # 1. Three Server Web Infrastructure Design
 
 ## 🔄 User Request Flow
-![Simple Web Stack](images/1-distributed_web_infrastructure.jpeg)
+![Simple Web Stack](images/1-distributed_web_infrastructure.png)
 
 1. A user types `www.foobar.com` in their browser.
 2. The domain's DNS record resolves to the IP address of the **Load Balancer**.
